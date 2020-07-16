@@ -33,6 +33,3 @@ def return_string_array (array)
   new_array
 end
 
-def
-
-end
